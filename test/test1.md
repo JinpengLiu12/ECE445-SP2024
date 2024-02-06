@@ -8,7 +8,7 @@
 **bold this test** <br>
 not bold this test
 
-![this is test image] ([assets/test.jpeg])
+![this is test image] ([/assets/test.jpeg])
 
 
 
