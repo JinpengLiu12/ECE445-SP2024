@@ -2,9 +2,9 @@
 ## 2/6/2023 First Team Meeting with TA
 
   meeting info <br>
-• bullet point <br>
-<br>
-<br>
+• 1<br>
+• 2<br>
+• 3<br>
 haha
 ## meeting 2
 
