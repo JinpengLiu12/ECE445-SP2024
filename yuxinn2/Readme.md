@@ -2,9 +2,7 @@
 
 ## 2/6: First team meeting with TA
 
-  **meeting info <br>**
-  •  <br>
-  •  <br>
+Pre-meeting
 
 highlevel requirement
  
@@ -19,3 +17,7 @@ the backup power is usable and won't affect the performance of the system.
 other subsystems are mostly covered by high-level requirement
 
 diagram
+
+  **meeting info <br>**
+  •  <br>
+  •  <br>
