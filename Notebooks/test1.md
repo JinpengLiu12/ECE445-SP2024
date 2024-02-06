@@ -5,7 +5,7 @@
 • 1<br>
 • 2<br>
 • 3<br>
-haha
+
 ## meeting 2
 
 ## meeting 3
