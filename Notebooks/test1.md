@@ -1,6 +1,7 @@
 # Meetings
 ## 2/6/2023 First Team Meeting with TA
-meeting info <br>
+
+  meeting info <br>
 • bullet point
 ## meeting 2
 
