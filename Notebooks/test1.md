@@ -7,6 +7,13 @@
 • 3<br>
 **bold this test** <br>
 not bold this test
+
+/assets/images/test1.jpeg
+
+
+
+
+
 ## meeting 2
 
 ## meeting 3
