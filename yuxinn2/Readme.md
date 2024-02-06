@@ -17,6 +17,7 @@ the backup power is usable and won't affect the performance of the system.
 other subsystems are mostly covered by high-level requirement
 
 diagram
+<img width="633" alt="image" src="https://github.com/JinpengLiu12/ECE445-SP2024/assets/112613590/300697d6-c4d8-4f7c-bfd4-11320a328f5a">
 
   **meeting info <br>**
   •  <br>
