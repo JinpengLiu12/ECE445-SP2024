@@ -2,6 +2,6 @@
 
 ## 2/6: First team meeting with TA
 
-  meeting info <br>
+  **meeting info <br>**
   •  <br>
   •  <br>
