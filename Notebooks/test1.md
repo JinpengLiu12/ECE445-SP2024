@@ -8,7 +8,7 @@
 **bold this test** <br>
 not bold this test
 
-/assets/images/test1.jpeg
+[assets/images/test1.jpeg]
 
 
 
