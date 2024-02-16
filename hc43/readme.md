@@ -7,4 +7,10 @@
   •  Decide what MCU chip we need. <br>
   •  Make it clear on the target people of our design <br>
   
+## 2/13: 
+  • Reveised project proposal <br>
+  • Discussed potential component selections <br>
+  Things to do: <be>
+  • Modify the block diagram and tolerance <br> 
+  • Modify the high-level requirement list <br>
   
