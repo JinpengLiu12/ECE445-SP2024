@@ -10,7 +10,7 @@
 ## 2/13: 
   • Reveised project proposal <br>
   • Discussed potential component selections <br>
-  Things to do: <be>
+  Things to do: <br>
   • Modify the block diagram and tolerance <br> 
   • Modify the high-level requirement list <br>
   
