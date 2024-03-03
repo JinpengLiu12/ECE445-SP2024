@@ -13,4 +13,10 @@
   Things to do: <br>
   • Modify the block diagram and tolerance <br> 
   • Modify the high-level requirement list <br>
+
+## 2/20: 
+  • Revised project design document <br>
+  • Discussed the microcontroller and sensor details <br>
   
+## 2/27: 
+  • Modify the PCB draft <br>
