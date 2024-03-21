@@ -19,7 +19,7 @@
   • Discussed the microcontroller and sensor details <br>
   
 ## 3/5: 
-  • Ordered the needed parts <br>
+  • Ordered the needed parts (stepper motor, sensors) <br>
   
 ## 3/12: 
   • Tested motors, and temperature sensors using Arduino <br>
