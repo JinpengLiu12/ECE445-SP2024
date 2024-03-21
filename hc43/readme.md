@@ -18,5 +18,15 @@
   • Revised project design document <br>
   • Discussed the microcontroller and sensor details <br>
   
-## 2/27: 
-  • Modify the PCB draft <br>
+## 3/5: 
+  • Ordered the needed parts <br>
+  
+## 3/12: 
+  • Tested motors, and temperature sensors using Arduino <br>
+
+## 3/19: 
+  • Modify the design of the pill box <br>
+
+
+
+
