@@ -26,6 +26,13 @@
 
 ## 3/19: 
   • Modify the design of the pill box <br>
+## 3/26: 
+  • Build the physical design of the pill box <br>
+## 4/2: 
+  • Modify the physical design of the pill box <br>
+
+## 4/9: 
+
 
 
 
