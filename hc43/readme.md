@@ -32,8 +32,12 @@
   • Modify the physical design of the pill box <br>
 
 ## 4/9: 
-
-
+ • test the microcontroller (ESP32) on PCB. <br>
+## 4/23:
+ • test the stepper motor and servo motor on PCB. <br>
+## 4/16: 
+ 
+  • Modify the physical design of the pill box <br>
 
 
 
