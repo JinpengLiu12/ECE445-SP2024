@@ -48,6 +48,6 @@
 ## 4/16: 
  
   • Modify the physical design of the pill box. <br>
-
+![pillbox_design](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112193813/dff1066c-24ae-4103-912a-a326aece2495)
 
 
