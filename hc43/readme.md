@@ -23,8 +23,11 @@
   • Discussed the microcontroller and sensor details. <br>
   
 ## 3/5: 
-  • Picked ESP32 chip, stepper motor. <br>
-  • Ordered the needed parts (stepper motor, sensors). <br>
+  • Identified needed parts: <br>
+    Microcontroller:esp32. <br>
+    Weight sensor: HX711 <br>
+    Stepper motor: drv8825 <br>
+  • Ordered the needed parts. <br>
   Things to do: <br>
   • Create PCB for microcontroller and stepper motor. <br>
   
@@ -38,12 +41,13 @@
   ![image](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112193813/09f0383c-0c2a-465c-bd16-5e72664ba8cd) <br>
   ![image](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112193813/9bbb2219-3710-42d6-8d79-989a87ca8da3) <br>
 
-
+  Things to do: <br>
   • Compare the advantages and disadvantages of using servo motors and stepper motors. <br>
   
 ## 3/26: 
   • Build the physical design of the pill box. <br>
-  
+
+
 ## 4/2: 
   • Modify the physical design of the pill box. <br>
 ![屏幕截图 2024-04-25 235236](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112193813/0a68797d-532a-4393-b9cc-3df1ea0fe963) <br>
