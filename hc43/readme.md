@@ -39,7 +39,7 @@
   
 ## 4/2: 
   • Modify the physical design of the pill box. <br>
-![屏幕截图 2024-04-25 235236](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112193813/0a68797d-532a-4393-b9cc-3df1ea0fe963)
+![屏幕截图 2024-04-25 235236](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112193813/0a68797d-532a-4393-b9cc-3df1ea0fe963) <br>
 
 ## 4/9: 
  • test the microcontroller (ESP32) on PCB. <br>
@@ -48,6 +48,9 @@
 ## 4/16: 
  
   • Modify the physical design of the pill box. <br>
-![pillbox_design](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112193813/dff1066c-24ae-4103-912a-a326aece2495)
+![pillbox_design](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112193813/dff1066c-24ae-4103-912a-a326aece2495) <be>
+  • Prepare for the final demo. <br>
+
+## 4/23: 
 
 
