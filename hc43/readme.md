@@ -16,6 +16,9 @@
 
 ## 2/20: 
   • Revised project design document. <br>
+  • Updated the block diagram. <br>
+  ![image](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112193813/7285fe25-3fe7-4f44-9bc5-544896e4641e)
+
   Things to do: <br>
   • Discussed the microcontroller and sensor details. <br>
   
