@@ -17,7 +17,7 @@
 ## 2/20: 
   • Revised project design document. <br>
   • Updated the block diagram. <br>
-  ![image](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112193813/7285fe25-3fe7-4f44-9bc5-544896e4641e)
+  ![image](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112193813/7285fe25-3fe7-4f44-9bc5-544896e4641e) <br>
 
   Things to do: <br>
   • Discussed the microcontroller and sensor details. <br>
@@ -35,6 +35,10 @@
   
 ## 3/19: 
   • Modify the design of the pill box. <br>
+  ![image](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112193813/09f0383c-0c2a-465c-bd16-5e72664ba8cd) <br>
+  ![image](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112193813/9bbb2219-3710-42d6-8d79-989a87ca8da3) <br>
+
+
   • Compare the advantages and disadvantages of using servo motors and stepper motors. <br>
   
 ## 3/26: 
