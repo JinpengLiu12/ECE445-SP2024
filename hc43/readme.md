@@ -45,7 +45,7 @@
   • Compare the advantages and disadvantages of using servo motors and stepper motors. <br>
   
 ## 3/26: 
-  • Build the physical design of the pill box. <br>
+  • Build the physical design of the pill box using cardboard. <br>
 
 
 ## 4/2: 
