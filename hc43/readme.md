@@ -53,9 +53,11 @@
 ![屏幕截图 2024-04-25 235236](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112193813/0a68797d-532a-4393-b9cc-3df1ea0fe963) <br>
 
 ## 4/9: 
- • test the microcontroller (ESP32) on PCB. <br>
-## 4/23:
- • test the stepper motor and servo motor on PCB. <br>
+ • Test the microcontroller (ESP32) on PCB. <br>
+ • Test the stepper motor and servo motor on PCB. <br>
+ • Created a 1:6 (6:36) gear set for the servo motor. <br>
+ ![image](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112193813/cbb6851f-ba1d-48e2-853f-4f6378d9d389)
+
 ## 4/16: 
  
   • Modify the physical design of the pill box. <br>
