@@ -46,6 +46,8 @@
   
 ## 3/26: 
   • Build the physical design of the pill box using cardboard. <br>
+  ![09be7d875ea4320e02f9bf7fb9c5505](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112193813/1b174a2f-4248-47ee-abf8-ab79a2b50675) <br>
+
 
 
 ## 4/2: 
