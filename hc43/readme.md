@@ -63,9 +63,13 @@
 ## 4/16: 
  
   • Modify the physical design of the pill box. <br>
-![pillbox_design](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112193813/dff1066c-24ae-4103-912a-a326aece2495) <be>
+![pillbox_design](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112193813/dff1066c-24ae-4103-912a-a326aece2495) <br>
+Things to do: <br>
   • Prepare for the final demo. <br>
 
 ## 4/23: 
-
+  • Final test. <br>
+![950597afe7e8aa944fa737259a66eb2](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112193813/2642b48c-fdcf-4ef5-8be5-2fc9374f6c7c) <br>
+Things to do: <br>
+  • Prepare for the presentation. <br>
 
