@@ -3,5 +3,6 @@
 ## 2/6: First team meeting with TA
 
   **meeting info <br>**
-  •  <br>
-  •  <br>
+  •  Drafting proposals<br>
+  •  Discuss the feasibility of the project<br>
+  •  Drafting the rough block diagram <br>
