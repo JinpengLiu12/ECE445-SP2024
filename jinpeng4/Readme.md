@@ -43,6 +43,7 @@
 ## 3/19:  Pill Box Design Modification
   • Place an order for the PCB designed for the microcontroller and stepper motor. <br>
   <img width="324" alt="截屏2024-05-01 20 35 22" src="https://github.com/JinpengLiu12/ECE445-SP2024/assets/93018739/eae09ca5-4bff-4a7e-a92b-ba4dec69fef7">
+  
   **Plan <br>**
   • Constructed a prototype of the pill box using cardboard to visualize the physical dimensions and 
    functionalities.
