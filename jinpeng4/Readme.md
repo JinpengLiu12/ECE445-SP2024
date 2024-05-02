@@ -47,6 +47,7 @@
   **Plan <br>**
   • Constructed a prototype of the pill box using cardboard to visualize the physical dimensions and 
    functionalities.
+  
   • Analyze and compare the benefits and drawbacks of using servo motors versus stepper motors to make our project more efficient <br>
   
 ## 3/26: Prototype Development
