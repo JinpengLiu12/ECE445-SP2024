@@ -42,4 +42,7 @@ diagram
 1. went through design doc
 2. prepare to present for design review
 3. figuring out the component choice for mcu, bluetooth. figuring out general design of each subsystem.
+
+## 2/27:fourth team meeting with TA
+1.figured out the microcontroller choice and have a first prototype on bread board
    
