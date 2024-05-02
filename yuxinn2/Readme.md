@@ -32,7 +32,10 @@ diagram
 1. went through the proposal submitted last week, now have a clean objective, high level requirement and RV table. 
 ![image](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112613590/79586718-9d6b-4a1b-956b-a949b7260312)
 2. updated the block diagram and finish the visual aid and 3d view.
-https://drive.google.com/file/d/1BVtr1IQ6ZMxCXRAI5jL1p8Clwr8rF0Fw/view?usp=sharing
+![image](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112613590/327f8b13-3a18-4f1e-bf6d-dcb2dba68acf)
+![image](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112613590/1dd618bf-a698-49da-a578-1223993a7d32)
+
+![image](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112613590/39292a37-96c9-4c6d-89e8-b9fd1a448823)
 
 
 ## 2/20:third team meeting with TA
