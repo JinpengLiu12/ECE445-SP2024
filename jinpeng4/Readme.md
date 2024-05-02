@@ -19,9 +19,9 @@
 
 ## 2/20: Project Design Update
   • Updated the project design document to reflect current understanding. <br>
-  • Refined the block diagram to better represent system components. <br>
-  ![image](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112193813/7285fe25-3fe7-4f44-9bc5-544896e4641e) <br>
-
+  • Refined the block diagram to better represent system components. <<br>
+ <img width="324" alt="截屏2024-05-01 20 35 22" src="https://github.com/JinpengLiu12/ECE445-SP2024/assets/93018739/eae09ca5-4bff-4a7e-a92b-ba4dec69fef7">
+ 
  **Plan <br>**
   • Discuss in more detail the microcontroller and sensor integration <br>
   • Started Considering the PCB design <br>
