@@ -25,3 +25,9 @@ diagram
   **meeting info <br>**
   •  went throught the overall project
      • from objective to implementation. still have questions about implementation, thinking about ways to implement the dispensing system.   
+
+
+## 2/13: Second team meeting with TA
+
+1. went through the proposal submitted last week, now have a clean objective, high level requirement and RV table. 
+![image](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112613590/79586718-9d6b-4a1b-956b-a949b7260312)
