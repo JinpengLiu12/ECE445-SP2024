@@ -1,6 +1,6 @@
 # Jinpeng's ECE445 Lab Notebook
 
-## 2/6: First team meeting with TA
+## 2/6: First team meeting with TA (Luoyan Li)
 
   **meeting info <br>**
   •  Drafting proposals<br>
