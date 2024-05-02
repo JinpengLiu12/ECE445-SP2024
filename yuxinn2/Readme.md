@@ -31,10 +31,12 @@ diagram
 
 1. went through the proposal submitted last week, now have a clean objective, high level requirement and RV table. 
 ![image](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112613590/79586718-9d6b-4a1b-956b-a949b7260312)
-
+2. updated the block diagram and finish the visual aid and 3d view.
+https://drive.google.com/file/d/1BVtr1IQ6ZMxCXRAI5jL1p8Clwr8rF0Fw/view?usp=sharing
 
 
 ## 2/20:third team meeting with TA
 1. went through design doc
 2. prepare to present for design review
-3. figuring out the component choice for mcu, bluetooth. figuring out general design of each subsystem. 
+3. figuring out the component choice for mcu, bluetooth. figuring out general design of each subsystem.
+   
