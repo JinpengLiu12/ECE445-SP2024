@@ -55,7 +55,7 @@ Constructed a prototype of the pill box using cardboard to visualize the physica
   • Further refine the physical design based on feedback from the prototype.  
 
 ## 4/2: Physical Design Refinement
-  • Implemented further modifications to the physical design of the pill box for enhanced usability and efficiency. <br>
+  • Implemented further modifications to the physical design of the pill box for enhanced usability and efficiency<br>
 ![屏幕截图 2024-04-25 235236](https://github.com/JinpengLiu12/ECE445-SP2024/assets/112193813/0a68797d-532a-4393-b9cc-3df1ea0fe963) <br>
 
 ## 4/9: PCB Testing and Gear Integration
