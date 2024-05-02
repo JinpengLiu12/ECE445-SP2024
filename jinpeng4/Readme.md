@@ -70,6 +70,7 @@
  • Tested the integration of the ESP32 microcontroller and motors on the newly developed PCB. <br>
  • Designed and tested a 1:6 gear set for the servo motor to enhance its operational capabilities.<br>
 <img width="606" alt="截屏2024-05-01 20 43 55" src="https://github.com/JinpengLiu12/ECE445-SP2024/assets/93018739/73b8eb5f-0f95-4369-baf1-d359a690d3de">
+ 
  **Plan <br>**
  • Prepare the system for the final demonstration by ensuring all components function harmoniously.
 
