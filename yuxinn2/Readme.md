@@ -23,5 +23,5 @@ diagram
 <img width="633" alt="image" src="https://github.com/JinpengLiu12/ECE445-SP2024/assets/112613590/300697d6-c4d8-4f7c-bfd4-11320a328f5a">
 
   **meeting info <br>**
-  •  <br>
-  •  <br>
+  •  went throught the overall project
+     • from objective to implementation. still have questions about implementation, thinking about ways to implement the dispensing system.   
