@@ -61,6 +61,7 @@
   • Implemented further modifications to the physical design of the pill box for enhanced usability and efficiency<br>
 <img width="915" alt="截屏2024-05-01 20 41 11" src="https://github.com/JinpengLiu12/ECE445-SP2024/assets/93018739/02855f9b-8329-4069-9349-53cb3226df7a">
 <img width="950" alt="截屏2024-05-01 20 44 40" src="https://github.com/JinpengLiu12/ECE445-SP2024/assets/93018739/5f0504ef-5c38-4d90-a7f8-44283c422234">
+
 **Plan <br>**
   • Further refine the physical design based on feedback from the prototype.  
   • Finishing and Testing the PCB.
