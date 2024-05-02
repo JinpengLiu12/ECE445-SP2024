@@ -22,7 +22,6 @@
   • Refined the block diagram to better represent system components. <<br>
 
  <img width="280" alt="截屏2024-05-01 20 37 18" src="https://github.com/JinpengLiu12/ECE445-SP2024/assets/93018739/02572ddc-9646-415e-8bfb-9106245cf587">
-
  **Plan <br>**
   • Discuss in more detail the microcontroller and sensor integration <br>
   • Started Considering the PCB design <br>
