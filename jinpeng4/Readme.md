@@ -78,6 +78,7 @@
 ## 4/16: Final Pill Box Design
   • Finalized the design of the pill box, incorporating all modifications and feedback from earlier tests.. <br>
 <img width="820" alt="截屏2024-05-01 20 47 10" src="https://github.com/JinpengLiu12/ECE445-SP2024/assets/93018739/916aae65-3bab-40b1-af76-153747b62070">
+
 **Plan <br>**
   • Conduct final preparations for the project demonstration.<br>
 
